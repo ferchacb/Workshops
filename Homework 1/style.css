@@ -1,0 +1,12 @@
+*{
+    padding-top: 0%;
+    margin: 2%;
+}
+body{
+
+    background: rgba(151, 205, 218, 0.514);
+
+}
+.error {
+    color: #FF0000;
+}
