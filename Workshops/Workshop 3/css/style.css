@@ -1,0 +1,10 @@
+*{
+    padding: 0%;
+    margin: 1%;
+}
+body{
+    background: rgba(153, 235, 224, 0.603);
+}
+.container{
+    width: 100%;
+}
