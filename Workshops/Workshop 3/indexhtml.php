@@ -19,8 +19,8 @@
         <?php endforeach;?>
         <h2>Rango de temperaturas</h2><br>
         <h6>La temperatura promedio es : <?php echo $total;?></h6><br>
-        <h6>List of seven lowest temperatures : <?php echo $hightest[0].",",$hightest[2].",",$hightest[3].",",$hightest[4].",",$hightest[5]?></h6><br>
-        <h6>List of seven highest temperatures : <?php echo $lowest[0].",",$lowest[2].",",$lowest[3].",",$lowest[4].",",$lowest[5];?></h6><br>
+        <h6>Las 5 temperaturas mas bajas : <?php echo $hightest[0].",",$hightest[2].",",$hightest[3].",",$hightest[4].",",$hightest[5]?></h6><br>
+        <h6>Las 5 temperaturas mas altas : <?php echo $lowest[0].",",$lowest[2].",",$lowest[3].",",$lowest[4].",",$lowest[5];?></h6><br>
     </div>
 
 
